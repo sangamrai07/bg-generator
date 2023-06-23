@@ -1,0 +1,41 @@
+body{
+    font: "Raleway" , sans-serif;
+    color: rgb(4, 4, 59);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right,#e2d4e8,#d59090);
+}
+
+h1{
+    font: 80px 'Arial', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    width: 100%;
+}
+
+h2 {
+    font: 40px 'Arial', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(16, 47, 69);
+    width: 100%;
+}
+
+button{
+    background-color: rgb(128, 43, 43);
+    color: aliceblue;
+    font-size: 20px;
+    height: 60px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 9px;
+}
+
+button:hover{
+    background-color: rgb(14, 141, 3);
+    color: rgb(249, 252, 250);
+    border: 2px solid black;
+}
